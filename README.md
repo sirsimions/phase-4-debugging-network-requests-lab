@@ -64,10 +64,17 @@ developing your own process.
 
   - How I debugged:
 
+  - I changed Toys to Toy in create controllers
+
 - Update the number of likes for a toy
 
   - How I debugged:
 
+  - I included the render statement (render json: toy, status: :accepted)
+
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+
+  I added a root for destroy
+
