@@ -76,5 +76,5 @@ developing your own process.
 
   - How I debugged:
 
-  I added a root for destroy
+  I added a route for destroy
 
